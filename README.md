@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning C,JavaScript & DSA<br><br>⚒️ Working on JavaScript and its frameworks<br><br>❤️ Interested in Open Source Projects & love to work remote.<br><br>😊 Love to Explore the world✨🎉<br><br>⚡ Fun fact I'm an Sports Person🥋🤸‍♂️
+I’m currently learning C, JavaScript & DSA<br><br>⚒️ Working on JavaScript and its frameworks<br><br>❤️ Interested in Open Source Projects & love to work remote.<br><br>😊 Love to Explore the world✨🎉<br><br>⚡ Fun fact I'm an Sports Person🥋🤸‍♂️
 
 
 # 💻 Tech Stack:
